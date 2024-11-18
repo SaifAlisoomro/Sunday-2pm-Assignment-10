@@ -21,9 +21,9 @@ const Hero = () => {
         <div className="text-center py-5 font-sans">
           <h1 className="font-bold text-[#044e83]">Dream smooth</h1>
           <p className="py-5">
-            "Elevate your style with Dream Smooth perfume, offering a rich,
+            Elevate your style with Dream Smooth perfume, offering a rich,
             long-lasting fragrance. Ideal for everyday wear or special
-            occasions—shop now and indulge in luxury!"
+            occasions—shop now and indulge in luxury!
           </p>
           <Link href="#">
             <span className="bg-[#044e83] text-white px-5 font-bold rounded-md py-3 ">
@@ -48,9 +48,9 @@ const Hero = () => {
         <div className="text-center py-5 font-sans">
           <h1 className="font-bold text-[#044e83]">Shamlimar</h1>
           <p className="py-5">
-            "Elevate your style with Dream Smooth perfume, offering a rich,
+            Elevate your style with Dream Smooth perfume, offering a rich,
             long-lasting fragrance. Ideal for everyday wear or special
-            occasions—shop now and indulge in luxury!"
+            occasions—shop now and indulge in luxury!
           </p>
           <Link href="#">
             <span className="bg-[#044e83] text-white px-5 font-bold rounded-md py-3 ">
@@ -75,9 +75,9 @@ const Hero = () => {
         <div className="text-center py-5 font-sans">
           <h1 className="font-bold text-[#044e83]">BLue Chanel</h1>
           <p className="py-5">
-            "Elevate your style with Dream Smooth perfume, offering a rich,
+            Elevate your style with Dream Smooth perfume, offering a rich,
             long-lasting fragrance. Ideal for everyday wear or special
-            occasions—shop now and indulge in luxury!"
+            occasions—shop now and indulge in luxury!
           </p>
           <Link href="#">
             <span className="bg-[#044e83] text-white px-5 font-bold rounded-md py-3 ">
