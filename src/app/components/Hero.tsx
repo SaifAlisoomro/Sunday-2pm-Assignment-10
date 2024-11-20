@@ -20,6 +20,7 @@ const Hero = () => {
         </div>
         <div className="text-center py-5 font-sans">
           <h1 className="font-bold text-[#044e83]">Dream smooth</h1>
+          <span className="text-blue-800 bg-gray-300 rounded-sm font-sans font-bold m-3">Rs:$299.00</span>
           <p className="py-5">
             Elevate your style with Dream Smooth perfume, offering a rich,
             long-lasting fragrance. Ideal for everyday wear or special
@@ -46,7 +47,8 @@ const Hero = () => {
           </h3>
         </div>
         <div className="text-center py-5 font-sans">
-          <h1 className="font-bold text-[#044e83]">Shamlimar</h1>
+          <h1 className="font-bold text-[#044e83]">Shalimar</h1>
+          <span className="text-blue-800 bg-gray-300 rounded-sm font-sans font-bold m-3">Rs:$399.00</span>
           <p className="py-5">
             Elevate your style with Dream Smooth perfume, offering a rich,
             long-lasting fragrance. Ideal for everyday wear or special
@@ -74,6 +76,7 @@ const Hero = () => {
         </div>
         <div className="text-center py-5 font-sans">
           <h1 className="font-bold text-[#044e83]">BLue Chanel</h1>
+          <span className="text-blue-800 bg-gray-300 rounded-sm font-sans font-bold m-3">Rs:$499.00</span>
           <p className="py-5">
             Elevate your style with Dream Smooth perfume, offering a rich,
             long-lasting fragrance. Ideal for everyday wear or special
